@@ -1,11 +1,14 @@
 # Aspiring Data Scientist
 
-## About
-This site contains all the projects and notebooks I have created in my data science and AI/ML engineering journey, and the thought processes that I went through as I completed each one of them.
+This site contains all the projects and notebooks I have created in my data science journey so far, and a documentation of my thought processes for each one of them.
 
 ## Portfolio Projects
 
-### Google Data Analytics
+### Google Advanced Data Analytics
+
+#### Tik Tok Case Study
+
+This 6-part Coursera certification brings students through the entire data analytics process using a chosen case study, culminating in a final capstone project. 
 
 ### Kaggle Kernels
 
@@ -16,6 +19,8 @@ Titanic dataset provides interesting opportunities for feature engineering.
 
 ### Tableau Visualisations
 
-### Snowflake
+### Snowflake Data Warehousing
 
-### Quantitative Finance
+### SQL Projects in BigQuery & PostgreSQL
+
+### Machine Learning in Finance
