@@ -4,9 +4,6 @@ This site contains all the projects and notebooks I have created in my data scie
 
 ## Portfolio
 
-* TOC
-{:toc}
-
 ### Standalone Projects
 
 #### Google Advanced Data Analytics - Tik Tok Case Study
