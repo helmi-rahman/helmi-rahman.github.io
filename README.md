@@ -17,11 +17,12 @@ This 6-part Coursera certification brings students through the entire data analy
 ### Exploratory Data Analysis & SQL
 
 Snowflake Data Warehousing
+
 BigQuery & PostgreSQL
 
-### Machine Learning Projects - Regression
+### Regression
 
-### Machine Learning Projects - Classification
+### Classification
 
 #### Titanic: Machine Learning from Disaster
 
@@ -31,10 +32,10 @@ A rite of passage for all data analysts. This binary classification problem pred
 
 An interesting classification problem on an extremely skewed dataset. The model is tasked at predicting fraudulent vs legitimate transactions based on a set of PCA-transformed variables. Dataset and description on [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
-### Machine Learning Projects - Clustering
+### Clustering
 
-### Machine Learning Projects - Natural Language Processing
+### Natural Language Processing
 
-### Machine Learning Projects - Neural Networks
+### Neural Networks
 
-### Machine Learning Projects - Recommendation Systems
+### Recommendation Systems
