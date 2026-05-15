@@ -26,11 +26,11 @@ BigQuery & PostgreSQL
 
 #### Titanic: Machine Learning from Disaster
 
-A rite of passage for all data analysts. This binary classification problem predicts if a Titanic passenger survives or not based on a given set of information. More details available on [Kaggle](https://www.kaggle.com/c/titanic).
+This binary classification problem predicts if a Titanic passenger survives or not based on a given set of information. More details available on [Kaggle](https://www.kaggle.com/c/titanic).
 
 #### Credit Card Fraud Detection
 
-An interesting classification problem on an extremely skewed dataset. The model is tasked at predicting fraudulent vs legitimate transactions based on a set of PCA-transformed variables. Dataset and description on [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+A classification problem on an extremely skewed dataset. The model is tasked at predicting fraudulent vs legitimate transactions based on a set of PCA-transformed variables. Dataset and description on [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ### Clustering
 
